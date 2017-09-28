@@ -14,7 +14,7 @@ const initializeGoogleMaps =() =>{
 	const mapOptions = {
 		center: {lat: 41.931929, lng: -87.698327},
 		zoom: 1,
-		mapTypeId: google.maps.MapTypeId.ROADMAP
+		mapTypeId: google.maps.MapTypeId.HYBRID
 	}
 
 	
